@@ -1,6 +1,6 @@
 ### Hi 👋, I'm ica10888
 
-#### I am a noob backend developer
+#### I am a backend developer
 
 I am interested in kubernetes , devops , functional programming and more
 
