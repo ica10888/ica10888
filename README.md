@@ -1,6 +1,6 @@
 ### Hi 👋, I'm ica10888
 
-#### I am a developer
+#### I am a software developer
 
 I am interested in kubernetes , devops , functional programming and more
 
